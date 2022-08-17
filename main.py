@@ -21,14 +21,14 @@ import eyed3
 # ------- Config -------
 
 api_cookies = { #请求API用的cookie
-    'MUSIC_U': 'f9276fcbced6bc03ffdaea6c047540737b3ad54769742eeb47934f6a233e00cfcbc9237f9717c2ec016b04c134433e7e92916cfd50031c6aea322b431da93472f9f279d9a909ff3e43fdf0fde39e0496c3061cd18d77b7a0',
-    'NMTID': '00OxMs6xOCEJRNjlUQgm45AEr2C16oAAAGCqw0Faw',
+    'MUSIC_U': '请替换该处',
+    'NMTID': '请替换该处',
     }
 download_headers = { #下载音乐用的headers
     'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE'
 }
-songlist_id='7505540822' #网易云歌单ID
-api_url='http://192.168.31.66:4100' #网易云API地址，执行完登录操作后将会获得一个cookie，需将其复制至"api_cookies"数组中
+songlist_id='请替换此处' #网易云歌单ID
+api_url='http://192.168.31.66:4100' #网易云第三方API服务地址，执行完登录操作后将会获得一个cookie，需将其复制至"api_cookies"数组中
 
 # ------- Function -------
 

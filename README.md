@@ -11,8 +11,8 @@
 #### ▫ 支持歌曲封面下载,歌曲属性写入,如歌手、专辑名
 #### ▫ 易二次开发:脚本多使用函数构成，方便二次开发
 
-## 🍕配置演示
-
+## 🍕使用教程
+https://github.com/linglaoda/NetEase-Cloud-Music-Playlist-Downloader/blob/main/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md
 
 ## 💫下载示例
 ![image](https://user-images.githubusercontent.com/79984712/185108722-490e1306-bee7-4c2c-9124-710937d578b8.png)
